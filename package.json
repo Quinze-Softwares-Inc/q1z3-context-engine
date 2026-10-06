@@ -1,0 +1,28 @@
+{
+  "name": "@q1z3/context-engine",
+  "version": "0.1.0",
+  "description": "Pure declared-source categories and exact audience/question candidate selection.",
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "license": "MIT",
+  "sideEffects": false,
+  "files": [
+    "index.js",
+    "package.json",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Quinze-Softwares-Inc/q1z3-context-engine.git"
+  },
+  "homepage": "https://github.com/Quinze-Softwares-Inc/q1z3-context-engine#readme"
+}

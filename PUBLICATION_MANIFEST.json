@@ -1,0 +1,82 @@
+{
+  "schema": "q1z3.github-publication",
+  "version": 1,
+  "repository": "https://github.com/Quinze-Softwares-Inc/q1z3-context-engine",
+  "license": "MIT",
+  "date": "2026-10-05",
+  "upstreamArchive": "https://q1z3.com/context-engine.tgz",
+  "upstreamArchiveSha256": "9d9aec04ce819281da41e610ed47df3d74fdd3abd87ba1e7745205cfe9f13be8",
+  "generatedAssetsSha256": "72b0c49691fec520204168cb265201f1dcd50455a8f7116aef80cf867803676b",
+  "repositoryAdditions": [
+    ".github/workflows/ci.yml",
+    ".gitignore",
+    "REPOSITORY.md",
+    "UPSTREAM_MANIFEST.json",
+    "tests/context.test.mjs",
+    "tests/source-integrity.test.mjs"
+  ],
+  "additionalPublishedSource": [],
+  "hashScope": "All repository source files except this non-recursive publication manifest and Git metadata; upstream archive bytes are retained unchanged.",
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "bytes": 285,
+      "sha256": "e4e2239aa63353dcf61438840e9b82dab323190a1af6e4dff9f33fad0a9fc949",
+      "scope": "repository-addition"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 52,
+      "sha256": "221ef1217b84f2f116df32b2ada685905f7246d9e41f9b4719a60111062c7795",
+      "scope": "repository-addition"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1074,
+      "sha256": "fd07a24416c7f0dfd773659eea9e4e11852db90736d200c8cde49a50863d46eb",
+      "scope": "upstream-archive"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5237,
+      "sha256": "3731756487d75ac28a45850bc17965f8380359d7275b2efa4e77dd5ae010edfd",
+      "scope": "upstream-archive"
+    },
+    {
+      "path": "REPOSITORY.md",
+      "bytes": 941,
+      "sha256": "99d97d1667695e0c4c8a0f948043d89ac8be35b6cbd2e86095e71793c5eb3830",
+      "scope": "repository-addition"
+    },
+    {
+      "path": "UPSTREAM_MANIFEST.json",
+      "bytes": 570,
+      "sha256": "674ee339f567d9c82e347bea6fc94936a17a1dd4198bc14836c496254939f9b8",
+      "scope": "repository-addition"
+    },
+    {
+      "path": "index.js",
+      "bytes": 3516,
+      "sha256": "32bc53207b5b63ea38db366ce579ac3490cd1c20e745ddedf47bd7e8d329cac2",
+      "scope": "upstream-archive"
+    },
+    {
+      "path": "package.json",
+      "bytes": 679,
+      "sha256": "8c3f8d246f81ace185d7de670acfe14e92d1a7a20bcfa3186d4d987444351c43",
+      "scope": "upstream-archive"
+    },
+    {
+      "path": "tests/context.test.mjs",
+      "bytes": 1776,
+      "sha256": "b62a559c96ed530f192844fba8fc887f05cccf3f77ffdc05d105b8090792e4cd",
+      "scope": "repository-addition"
+    },
+    {
+      "path": "tests/source-integrity.test.mjs",
+      "bytes": 1598,
+      "sha256": "7a4b990d7f86c0fe73c8cfec6040b04717e2b07cebd3edf6d05caff3e4b3241e",
+      "scope": "repository-addition"
+    }
+  ]
+}
